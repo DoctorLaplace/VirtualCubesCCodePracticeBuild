@@ -39,7 +39,7 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 
 **Left-Click (On Your Units)** - Selects the unit so you can control it.
 
-**Left-Shift + Left-Click (On Your Units)** - Adds the clicked unit to selection group so you can control it along with any other selected units.
+**Left-Shift + Left-Click (On Your Units)** - Adds the clicked unit to selection group.
 
 **Left-Click (Anywhere on Map)** - Deselects all units.
 
