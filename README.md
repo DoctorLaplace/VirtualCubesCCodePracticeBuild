@@ -3,6 +3,7 @@
 - Extract its contents wherever you like.
 - Open folder
 - Run "Virtual Cubes" application
+- Windows will warn you that it is an Executable with no publisher. If you trust this download prompt it to run anyway.
 
 Path: \Virtual Cubes RTS\Virtual Cubes.application
 
