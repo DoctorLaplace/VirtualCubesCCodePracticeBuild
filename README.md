@@ -43,6 +43,7 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 
 **Left-Click (Anywhere on Map)** - Deselects all units.
 
+
 **Right-Click (Anywhere on Map)** - Sends selected units to clicked location.
 
 **Left-Shift + Right-Click (Anywhere on Map)** - Waypoints selected units to clicked location after current waypoints are finished.
