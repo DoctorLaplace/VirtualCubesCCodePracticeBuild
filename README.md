@@ -22,7 +22,7 @@ R Key - Restarts Game
 ESC Key - Exits Program
 
 # Player Unit Controls
-Units: Small colored cylinders positioned on the map. The Purple cylinders belong to you, the Yellow cylinders are enemies!
+###### Units: Small colored cylinders positioned on the map. The Purple cylinders belong to you, the Yellow cylinders are enemies!
 
 Left-Click (On Your Units) - Selects the unit so you can control it.
 
