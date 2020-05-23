@@ -14,7 +14,9 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 **S Key** - Pans screen down
 
 **D Key** - Pans screen right
+
 **Mouse Wheel Up** - Zooms the screen in
+
 **Mouse Wheel Down** - Zooms the screen out
 
 **SPACE Key** - Resets screen to the middle of the level.
