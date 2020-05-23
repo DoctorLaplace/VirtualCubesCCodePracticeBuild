@@ -1,5 +1,5 @@
 # How to Run: Virtual Cubes C-Code Practice Build
-- Download the "Virtual Cubes RTS" zip folder to your computer. (Do not mistake it for this master branch zip!)
+- Download the "Virtual Cubes RTS.zip" zip folder to your computer. (Do not mistake it for this master branch zip!)
 - Extract its contents wherever you like.
 - Open folder
 - Run "Virtual Cubes" application
