@@ -19,6 +19,7 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 **SPACE Key** - Resets screen to the middle of the level.
 
 **R Key** - Restarts Game
+
 **ESC Key** - Exits Program
 
 # Player Unit Controls
