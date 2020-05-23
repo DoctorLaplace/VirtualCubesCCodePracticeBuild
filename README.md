@@ -37,13 +37,15 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 # Player Unit Controls
 ## Units are small colored cylinders positioned on the map. The Purple cylinders belong to you, the Yellow cylinders are enemies! Selecting a unit turns it pink!
 
-**Left-Click (On Your Units)** - Selects the unit so you can control it.
+-**Left-Click (On Your Units)** - Selects the unit so you can control it.
 
 **Left-Shift + Left-Click (On Your Units)** - Adds the clicked unit to selection group so you can control it along with any other selected units.
 
 **Left-Click (Anywhere on Map that is not a unit)** - Deselects all units.
 
 **Right-Click (Anywhere on Map)** - Sends selected units to clicked location.
+
+**Left-Shift + Right-Click (Anywhere on Map)** - Waypoints selected units to clicked location after current waypoints are finished.
 
 **Right-Click (On enemy unit)** - Sends selected units to attack enemy unit.
 
