@@ -8,9 +8,13 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 # Basic Controls
 
 W Key - Pans screen up
+
 A Key - Pans screen left
+
 S Key - Pans screen down
+
 D Key - Pans screen right
+
 
 SPACE Key - Resets screen to the middle of the level.
 
