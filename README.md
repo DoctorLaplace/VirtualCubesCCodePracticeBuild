@@ -56,4 +56,7 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 - Box drag-select feature has been developed yet! Shift click selections are only way to select multiple units in this version!
 ```
 
+Author(s): Doctor Laplace (Jacob Halaweh)
+
+
 
