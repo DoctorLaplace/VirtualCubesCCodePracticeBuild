@@ -39,3 +39,12 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 **Right-Click (On enemy unit)** - Sends selected units to attack enemy unit.
 
 **Left-Shift + Right-Click (On enemy unit)** - Queues selected units to attack enemy unit after they have finished killing other queued enemies.
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
+
