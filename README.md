@@ -32,7 +32,7 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 
 **ESC Key** - Exits Program
 
-**Bumping the edge of the screen with the mouse cursor** - Moves screen in bumped direction
+**Pushing the edge of the screen with the mouse cursor** - Moves screen in the pushed direction
 
 # Player Unit Controls
 ## Units are small colored cylinders positioned on the map. The Purple cylinders belong to you, the Yellow cylinders are enemies! Selecting a unit turns it pink!
