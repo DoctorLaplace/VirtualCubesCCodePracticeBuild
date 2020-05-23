@@ -53,7 +53,7 @@ Build for a small RTS project. Used to practice C++/C# code skills.
 **Left-Shift + Right-Click (On enemy unit)** - Queues selected units to attack enemy unit after they have finished killing other queued enemies.
 
 ```diff
-- Box drag-select feature has been developed yet! Shift click selections are only supported in this version!
+- Box drag-select feature has been developed yet! Shift click selections are only way to select multiple units in this version!
 ```
 
 
