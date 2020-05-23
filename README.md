@@ -1,6 +1,7 @@
 # How to Run: Virtual Cubes C-Code Practice Build
-Copy the "Virtual Cubes RTS" folder to your computer. Open it, run "Virtual Cubes".
+Download the "Virtual Cubes RTS" zip folder to your computer. Extract its contents. Open it, run "Virtual Cubes".
 Path: \Virtual Cubes RTS\Virtual Cubes.application
+The program should start immediately and needs no assembly.
 
 # Description
 Build for a small RTS project. Used to practice C++/C# code skills.
